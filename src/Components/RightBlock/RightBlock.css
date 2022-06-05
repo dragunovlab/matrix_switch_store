@@ -7,10 +7,112 @@
     transition: 3s;
     /* border: 12px solid red; */
   }
-
-  .s-mix-pro {
-    width: 50%;
-    margin-top: 11%;
-    margin-left: -13%;
+  
+  .Content {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    /* border: 12px solid red; */
   }
+  
+  .ContentLeft {
+    width: 50%;
+    /* border: 12px solid red; */
+  }
+  
+  .ContentRight {
+    margin-left: 120px;
+    width: 50%;
+    /* border: 12px solid red; */
+  }
+  
+  .s-mix-pro {
+    height: 78vh;
+    margin-left: -20%;
+    /* border: 12px solid red; */
+  }
+  
 
+  .rightTittleH1 {
+    margin-left: 40px;
+    font-family: "Oswald";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 68px;
+    line-height: 142px;
+  }
+  
+  
+  
+  p {
+    width: 300px;
+    margin-left: 40px;
+  }
+  
+  .btns-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 40px;
+    transition: 3s;
+  }
+  
+  .share {
+  }
+  
+  .buttonR {
+    width: 120px;
+    height: 40px;
+    background: #000;
+    border-radius: 50px;
+    border: none;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+    
+  }
+  
+  .buttonBR {
+    margin-top: 40px;
+    margin-left: 65%;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    width: 50px;
+    height: 50px;
+  
+    background: #18a0fb;
+    border-radius: 50%;
+  
+    border: none;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+    transition: 3s;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

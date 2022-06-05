@@ -6,13 +6,13 @@ let text = "test variable";
 
 function App() {
   return (
-    <>
+   
       <div className="App">
         <LeftBlock />
         <div className="line"></div>
         <RightBlock />
       </div>
-    </>
+
   );
 }
 
